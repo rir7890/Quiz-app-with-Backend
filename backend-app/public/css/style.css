@@ -1,0 +1,44 @@
+
+#question{
+    /* background-color: red; */
+    height: 35px;
+    color:black;
+    width: 85%;
+    border: 3px solid black;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#option{
+    height:30px;
+    color:black;
+    width:60%;
+    cursor: pointer;
+    border: 3px solid black;
+    font-size: 15px;
+}
+
+label{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+    margin:5px;
+}
+
+#submitbtn{
+    margin: 10px;
+    font-size: 25px;
+    border-radius: 50%;
+    background-color: rgb(90, 90, 247);
+    color: aliceblue;
+    border-color: aliceblue;
+    padding:10px;
+    cursor:pointer;
+}
+
+#submitbtn:hover{
+    background: grey;
+}
+
